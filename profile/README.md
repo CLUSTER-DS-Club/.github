@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/cluster.vips/"><img src="https://img.shields.io/badge/Instagram-%40cluster.vips-ff69b4?logo=instagram&style=flat-square" /></a>
+<!--   <a href="https://www.instagram.com/cluster.vips/"><img src="https://img.shields.io/badge/Instagram-%40cluster.vips-ff69b4?logo=instagram&style=flat-square" /></a> -->
   <a href="https://www.linkedin.com/company/cluster-vips/"><img src="https://img.shields.io/badge/LinkedIn-CLUSTER-blue?logo=linkedin&style=flat-square" /></a>
   <a href="mailto:dsclub.cluster@vips.edu"><img src="https://img.shields.io/badge/Email-dsclub.cluster%40vips.edu-red?logo=gmail&style=flat-square" /></a>
   <img src="https://img.shields.io/github/stars/CLUSTER-DS-Club?style=social" />
