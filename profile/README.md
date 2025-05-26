@@ -70,7 +70,7 @@ We don't follow the data—we **launch into it**.
 | 🔄 **Data Formats**       | 🧾 📦 📂 <br> `Parquet, Avro, ORC, JSON, YAML, Feather, Protobuf`                                                                               |
 
 ---
-
+<!--
 ## 👩‍🚀 Meet the CLUSTER Crew
 
 > The minds behind the madness.
@@ -147,7 +147,7 @@ We don't follow the data—we **launch into it**.
     </tr>
   </table>
 </div>
-
+-->
 ---
 
 ## 🛡️ Contribute to CLUSTER
