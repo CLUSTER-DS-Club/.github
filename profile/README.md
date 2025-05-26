@@ -1,8 +1,6 @@
-<!--
 <p align="center">
-  <img src="https://github.com/your-org-link/your-banner-image.png" alt="CLUSTER Banner" />
+  <img src="banner.png" alt="CLUSTER Banner" />
 </p>
--->
 
 <h1 align="center">🚀 Welcome to <span style="color:#ff0066">CLUSTER</span> 🚀</h1>
 <h3 align="center"><i>Collaborative Learning Using Statistical Trends & Exploratory Research</i></h3>
