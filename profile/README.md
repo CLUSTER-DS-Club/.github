@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<!--   <a href="https://www.instagram.com/cluster.vips/"><img src="https://img.shields.io/badge/Instagram-%40cluster.vips-ff69b4?logo=instagram&style=flat-square" /></a> -->
+  <a href="https://cluster-ds-club.github.io/cluster/"><img src="https://img.shields.io/badge/Website-cluster--ds--club.github.io-blue?logo=google-chrome&style=flat-square" /></a>
   <a href="https://www.linkedin.com/company/cluster-vips/"><img src="https://img.shields.io/badge/LinkedIn-CLUSTER-blue?logo=linkedin&style=flat-square" /></a>
   <a href="mailto:dsclub.cluster@vips.edu"><img src="https://img.shields.io/badge/Email-dsclub.cluster%40vips.edu-red?logo=gmail&style=flat-square" /></a>
   <img src="https://img.shields.io/github/stars/CLUSTER-DS-Club?style=social" />
@@ -192,7 +192,7 @@ We grow **together**, celebrate each other’s wins, and learn through joyful ch
 
 ## 📫 Let's Connect
 
-- 🌐 Website: **Coming Soon**
+- 🌐 Website: [CLUSTER-DS-CLUB](https://cluster-ds-club.github.io/cluster/)
 - 📸 Instagram: [@cluster.vips](https://www.instagram.com/cluster.vips/)
 - 💼 LinkedIn: [CLUSTER](https://www.linkedin.com/company/cluster-vips/)
 - 📧 Email: [dsclub.cluster@vips.edu](mailto:dsclub.cluster@vips.edu)
