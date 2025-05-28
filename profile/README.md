@@ -11,9 +11,18 @@
 </p>
 
 <p align="center">
-  <a href="https://cluster-ds-club.github.io/cluster/"><img src="https://img.shields.io/badge/Website-cluster--ds--club.github.io-blue?logo=google-chrome&style=flat-square" /></a>
-  <a href="https://www.linkedin.com/company/cluster-vips/"><img src="https://img.shields.io/badge/LinkedIn-CLUSTER-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:dsclub.cluster@vips.edu"><img src="https://img.shields.io/badge/Email-dsclub.cluster%40vips.edu-red?logo=gmail&style=flat-square" /></a>
+  <a href="https://cluster-ds-club.github.io/cluster/">
+    <img src="https://img.shields.io/badge/Website-cluster--ds--club.github.io-blue?logo=google-chrome&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/company/cluster-vips/">
+    <img src="https://img.shields.io/badge/LinkedIn-CLUSTER-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:dsclub.cluster@vips.edu">
+    <img src="https://img.shields.io/badge/Email-dsclub.cluster%40vips.edu-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://discord.gg/6QN83D89vx">
+    <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white&style=flat-square" />
+  </a>
   <img src="https://img.shields.io/github/stars/CLUSTER-DS-Club?style=social" />
 </p>
 
