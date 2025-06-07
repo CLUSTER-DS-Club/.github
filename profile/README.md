@@ -200,7 +200,7 @@ We grow **together**, celebrate each other’s wins, and learn through joyful ch
 ## 📫 Let's Connect
 
 - 🌐 Website: [CLUSTER-DS-CLUB](https://cluster-ds-club.github.io/cluster/)
-- 📸 Instagram: [@cluster.vips](https://www.instagram.com/cluster.vips/)
+<!-- - 📸 Instagram: [@cluster.vips](https://www.instagram.com/cluster.vips/) -->
 - 💼 LinkedIn: [CLUSTER](https://www.linkedin.com/company/cluster-vips/)
 - 📧 Email: [dsclub.cluster@vips.edu](mailto:dsclub.cluster@vips.edu)
 
